@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/suziejoy/Ecormmerce-Website.git/static/css/main.190a1ef6.css",
-    "main.js": "/suziejoy/Ecormmerce-Website.git/static/js/main.e0efa748.js",
+    "main.js": "/suziejoy/Ecormmerce-Website.git/static/js/main.c64aadcc.js",
     "static/js/453.d855a71b.chunk.js": "/suziejoy/Ecormmerce-Website.git/static/js/453.d855a71b.chunk.js",
     "static/media/banner_kids.png": "/suziejoy/Ecormmerce-Website.git/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/suziejoy/Ecormmerce-Website.git/static/media/banner_women.5a27fc4e4533e57e4676.png",
@@ -47,11 +47,11 @@
     "static/media/hand_icon.png": "/suziejoy/Ecormmerce-Website.git/static/media/hand_icon.9c7487cecb600f30901b.png",
     "index.html": "/suziejoy/Ecormmerce-Website.git/index.html",
     "main.190a1ef6.css.map": "/suziejoy/Ecormmerce-Website.git/static/css/main.190a1ef6.css.map",
-    "main.e0efa748.js.map": "/suziejoy/Ecormmerce-Website.git/static/js/main.e0efa748.js.map",
+    "main.c64aadcc.js.map": "/suziejoy/Ecormmerce-Website.git/static/js/main.c64aadcc.js.map",
     "453.d855a71b.chunk.js.map": "/suziejoy/Ecormmerce-Website.git/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.190a1ef6.css",
-    "static/js/main.e0efa748.js"
+    "static/js/main.c64aadcc.js"
   ]
 }
